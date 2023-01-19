@@ -1,8 +1,9 @@
 # pshychiatrist-api
 
-end points : 
-for patient registration ->  /patientregiser
+### End points : 
+- for patient registration ->  /patientregiser
 
-## Libraries and frame works :-
+### Libraries and frame works :-
 - Express
 - mongoose
+- cors
